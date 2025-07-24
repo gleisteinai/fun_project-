@@ -1,0 +1,233 @@
+{
+    "pages": [
+        {
+            "screen_id": "template_styles",
+            "page_index": 1,
+            "components": [
+                {
+                    "type": "title",
+                    "title": "Medical"
+                },
+                {
+                    "type": "paragraph",
+                    "title": "",
+                    "text": "We are proud to offer you a choice of medical plans that provide comprehensive medical and prescription drug coverage. The plans also offer many resources and tools to help you maintain a healthy lifestyle. Following is a brief description of each plan."
+                },
+                {
+                    "type": "table_general_purposes",
+                    "table": {
+                        "rows": [
+                            {
+                                "row": 1,
+                                "cells": [
+                                    {
+                                        "column": 1,
+                                        "text": "Plan Features  Carrier UMR UMR 2025 Offerings $1,750 PPO Plan $3,500 HDHP",
+                                        "height_units": 1,
+                                        "width_units": 1
+                                    },
+                                    {
+                                        "column": 2,
+                                        "text": "Preferred Provider Organization (PPO)",
+                                        "height_units": 1,
+                                        "width_units": 1
+                                    },
+                                    {
+                                        "column": 3,
+                                        "text": "High Deductible Health Plan (HDHP)",
+                                        "height_units": 1,
+                                        "width_units": 1
+                                    }
+                                ]
+                            },
+                            {
+                                "row": 2,
+                                "cells": [
+                                    {
+                                        "column": 1,
+                                        "text": "Carrier $1,750 PPO Plan $3,500 HDHP",
+                                        "height_units": 1,
+                                        "width_units": 1
+                                    },
+                                    {
+                                        "column": 2,
+                                        "text": "UMR",
+                                        "height_units": 1,
+                                        "width_units": 1
+                                    },
+                                    {
+                                        "column": 3,
+                                        "text": "UMR",
+                                        "height_units": 1,
+                                        "width_units": 1
+                                    }
+                                ]
+                            },
+                            {
+                                "row": 3,
+                                "cells": [
+                                    {
+                                        "column": 1,
+                                        "text": "2025 Offerings",
+                                        "height_units": 1,
+                                        "width_units": 1
+                                    },
+                                    {
+                                        "column": 2,
+                                        "text": "$1,750 PPO Plan",
+                                        "height_units": 1,
+                                        "width_units": 1
+                                    },
+                                    {
+                                        "column": 3,
+                                        "text": "$3,500 HDHP",
+                                        "height_units": 1,
+                                        "width_units": 1
+                                    }
+                                ]
+                            },
+                            {
+                                "row": 4,
+                                "cells": [
+                                    {
+                                        "column": 1,
+                                        "text": "100% Coverage for Preventive",
+                                        "height_units": 1,
+                                        "width_units": 1
+                                    },
+                                    {
+                                        "column": 2,
+                                        "text": "Yes",
+                                        "height_units": 1,
+                                        "width_units": 1
+                                    },
+                                    {
+                                        "column": 3,
+                                        "text": "Yes",
+                                        "height_units": 1,
+                                        "width_units": 1
+                                    }
+                                ]
+                            },
+                            {
+                                "row": 5,
+                                "cells": [
+                                    {
+                                        "column": 1,
+                                        "text": "Provides coverage for out of network  providers?",
+                                        "height_units": 1,
+                                        "width_units": 1
+                                    },
+                                    {
+                                        "column": 2,
+                                        "text": "Yes",
+                                        "height_units": 1,
+                                        "width_units": 1
+                                    },
+                                    {
+                                        "column": 3,
+                                        "text": "Yes",
+                                        "height_units": 1,
+                                        "width_units": 1
+                                    }
+                                ]
+                            },
+                            {
+                                "row": 6,
+                                "cells": [
+                                    {
+                                        "column": 1,
+                                        "text": "Primary Care Physician (PCP)  Required?",
+                                        "height_units": 1,
+                                        "width_units": 1
+                                    },
+                                    {
+                                        "column": 2,
+                                        "text": "No",
+                                        "height_units": 1,
+                                        "width_units": 1
+                                    },
+                                    {
+                                        "column": 3,
+                                        "text": "No",
+                                        "height_units": 1,
+                                        "width_units": 1
+                                    }
+                                ]
+                            },
+                            {
+                                "row": 7,
+                                "cells": [
+                                    {
+                                        "column": 1,
+                                        "text": "Copay based or deductible /  coinsurance?",
+                                        "height_units": 1,
+                                        "width_units": 1
+                                    },
+                                    {
+                                        "column": 2,
+                                        "text": "Combination of both copays and deductible/co- insurance benefits",
+                                        "height_units": 1,
+                                        "width_units": 1
+                                    },
+                                    {
+                                        "column": 3,
+                                        "text": "Primarily deductible / coinsurance benefits",
+                                        "height_units": 1,
+                                        "width_units": 1
+                                    }
+                                ]
+                            },
+                            {
+                                "row": 8,
+                                "cells": [
+                                    {
+                                        "column": 1,
+                                        "text": "Eligible for tax advantaged account?",
+                                        "height_units": 1,
+                                        "width_units": 1
+                                    },
+                                    {
+                                        "column": 2,
+                                        "text": "FSA",
+                                        "height_units": 1,
+                                        "width_units": 1
+                                    },
+                                    {
+                                        "column": 3,
+                                        "text": "HSA",
+                                        "height_units": 1,
+                                        "width_units": 1
+                                    }
+                                ]
+                            },
+                            {
+                                "row": 9,
+                                "cells": [
+                                    {
+                                        "column": 1,
+                                        "text": "Other Considerations",
+                                        "height_units": 1,
+                                        "width_units": 1
+                                    },
+                                    {
+                                        "column": 2,
+                                        "text": "- Freedom to seek care from any provider of your choice, however seeing in-network providers proves to be cost beneficial. - You pay the full cost of non-preventive health care services until you meet the annual deductible. You may also have to pay a fixed dollar amount (copay) for certain services. - Once you meet the deductible, you pay a percentage of certain health care expenses (coinsurance) and the plan pays the rest. - Once your deductible, copays, coinsurance add up to the out-of-pocket maximum, the plan pays the full cost of all qualified health care services for the rest of the year.",
+                                        "height_units": 1,
+                                        "width_units": 1
+                                    },
+                                    {
+                                        "column": 3,
+                                        "text": "- Freedom to seek care from any provider of your choice, however seeing in-network providers proves to be cost beneficial. - You pay the full cost of non-preventive health care services until you meet the annual deductible. - Once you meet the deductible, you pay a percentage of certain health care expenses (coinsurance) and the plan pays the rest. - Once your deductible and coinsurance add up to the out-of-pocket maximum, the plan pays the full cost of all qualified health care services for the rest of the year.",
+                                        "height_units": 1,
+                                        "width_units": 1
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                }
+            ]
+        }
+    ]
+}
