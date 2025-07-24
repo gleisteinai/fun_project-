@@ -16,7 +16,7 @@ HEADERS = {
 }
 
 pdf_path = "yourfilepname or path"
-output_json_path = "expected_output_testing1v59.json"
+output_json_path = "expected_output.json"
 
 MAX_RETRIES = 3
 PAGE_DELAY_SECONDS = 5
